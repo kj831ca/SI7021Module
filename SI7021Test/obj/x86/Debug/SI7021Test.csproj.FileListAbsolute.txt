@@ -1,0 +1,9 @@
+/home/pi/Desktop/SI7021Module/SI7021Module/SI7021Module/SI7021Test/bin/Debug/SI7021Test.exe
+/home/pi/Desktop/SI7021Module/SI7021Module/SI7021Module/SI7021Test/bin/Debug/SI7021Test.pdb
+/home/pi/Desktop/SI7021Module/SI7021Module/SI7021Module/SI7021Test/bin/Debug/SI7021Module.dll
+/home/pi/Desktop/SI7021Module/SI7021Module/SI7021Module/SI7021Test/bin/Debug/RPi.I2C.Net.dll
+/home/pi/Desktop/SI7021Module/SI7021Module/SI7021Module/SI7021Test/bin/Debug/SI7021Module.pdb
+/home/pi/Desktop/SI7021Module/SI7021Module/SI7021Module/SI7021Test/bin/Debug/RPi.I2C.Net.pdb
+/home/pi/Desktop/SI7021Module/SI7021Module/SI7021Module/SI7021Test/obj/x86/Debug/SI7021Test.csproj.CoreCompileInputs.cache
+/home/pi/Desktop/SI7021Module/SI7021Module/SI7021Module/SI7021Test/obj/x86/Debug/SI7021Test.exe
+/home/pi/Desktop/SI7021Module/SI7021Module/SI7021Module/SI7021Test/obj/x86/Debug/SI7021Test.pdb
